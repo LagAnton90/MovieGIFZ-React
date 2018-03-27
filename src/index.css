@@ -1,0 +1,42 @@
+body {
+     background-color: #DDDDDD;
+     ;
+     font-family: monospace;
+     font-size: 20px;
+     text-align: center;
+     margin: 0;
+     padding: 0;
+}
+
+ button {
+     background-color: Tomato;
+     border: 2px solid;
+     color: black;
+     font-family: monospace;
+}
+
+ .App-header{
+     background-color: white;
+     padding: 20px;
+}
+
+ ul {
+     display: block;
+     color: black;
+     text-align: center;
+     padding: 16px;
+     font-size: 17px;
+}
+
+ .List-header {
+     font-weight: bold;
+     font-size: 19px;
+     text-align: center;
+}
+
+.plotContainer {
+
+  padding-left: 140px;
+  padding-right: 140px;
+
+}
